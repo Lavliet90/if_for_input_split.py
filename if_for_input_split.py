@@ -1,7 +1,9 @@
-#!/usr/bin/env python
-# coding: utf-8
+#Write a program that reads a list of numbers list from the first line and a number x from the second line, which prints out all the positions where the number x occurs
+#in the given list list.
 
-# In[5]:
+#Positions are numbered from zero, if the number x is not found in the list, output the string "None" (without quotes, with a capital letter).
+
+#Positions should be displayed on one line, in ascending order of absolute value.
 
 
 k=0
@@ -15,10 +17,3 @@ for z in a:
         print(k)
 if u==0:
     print("Отсутствует")
-
-
-# In[ ]:
-
-
-
-
