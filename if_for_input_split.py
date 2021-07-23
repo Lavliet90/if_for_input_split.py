@@ -16,4 +16,4 @@ for z in a:
         u+=1
         print(k)
 if u==0:
-    print("Отсутствует")
+    print("None")
